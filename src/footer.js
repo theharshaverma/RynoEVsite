@@ -12,10 +12,10 @@ export default function Footer() {
         </div>
 
         <div>
-          <a href='https://instagram.com' className='me-4 text-reset'>
+          <a href='https://www.instagram.com/rhyno.in/' className='me-4 text-reset'>
             <MDBIcon fab icon="instagram" />
           </a>
-          <a href='https://linkedin.com' className='me-4 text-reset'>
+          <a href='https://in.linkedin.com/company/rhyno-wheels' className='me-4 text-reset'>
             <MDBIcon fab icon="linkedin" />
           </a>
         </div>
@@ -62,7 +62,7 @@ export default function Footer() {
             <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
               <h6 className='text-uppercase fw-bold mb-4'>Quick Links</h6>
               <p>
-                <a href='#!' className='text-reset'>
+                <a href='https://in.linkedin.com/company/rhyno-wheels' className='text-reset'>
                   Career
                 </a>
               </p>
